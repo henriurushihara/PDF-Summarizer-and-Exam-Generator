@@ -1,4 +1,4 @@
-***Automated PDF Summarizer and Exam Generator***
+****Automated PDF Summarizer and Exam Generator****
 
 This project is an automated solution for summarizing long PDF documents and generating exams based on their content using OpenAI's GPT API. It is designed to handle very large text documents by bypassing token limitations of standard APIs like chatgpt.com (chat.openai.com), which restrict text submissions to only a few thousand words, making it especially useful for generating exams, quizzes, or summaries from extensive lecture materials.
 
